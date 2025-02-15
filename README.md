@@ -10,10 +10,11 @@ A simple, offline citation generator for academic papers and websites.
 - No ads, no sign-up required
 
 ## Usage
-1. Choose citation style from dropdown
-2. For academic papers: Enter DOIs (one per line)
-3. For websites: Enter URL and click "Fetch Metadata"
-4. Click "Copy to Clipboard" for final reference list
+1. Download and open the html file in your browser of choice
+2. Choose citation style from dropdown
+3. For academic papers: Enter DOIs (one per line)
+4. For websites: Enter URL and click "Fetch Metadata"
+5. Click "Copy to Clipboard" for final reference list
 
 ## Technical Notes
 - Uses CrossRef API for DOI metadata
